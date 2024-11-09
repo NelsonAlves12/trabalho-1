@@ -1,8 +1,8 @@
-#autor: Alex Tavares
+#autor: Nelson Alves
 #data: 08.11.2024
 #código: calculadora de triângulos
 
-#Para garantir que o código funcione, é preciso que essas sentenças sejam respeitadas
+#Para garantir um bom funcionamento do código é preciso que as regrinhas abaixo sejam respeitadas!
 
 #a + b > c
 #a + c > b
