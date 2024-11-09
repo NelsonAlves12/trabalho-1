@@ -1,5 +1,5 @@
 #autor: Nelson Alves
-#data: 08.11.2024
+#data: 04.11.2024
 #código: calculadora de triângulos
 
 #Para garantir um bom funcionamento do código é preciso que as regrinhas abaixo sejam respeitadas!
